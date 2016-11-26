@@ -1,5 +1,3 @@
-# Choice
-
 standing in the middle of the road of Life,<br/>
 trembling, i close my eyes.<br/>
 inhale, exhale, inhale, exhale.<br/>
