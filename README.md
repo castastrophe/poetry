@@ -18,3 +18,7 @@
 * [sunrise, sunset](https://github.com/casnroberts/poetry/blob/master/sunrise-sunset.md)
 * [The facsimile is a fake](https://github.com/casnroberts/poetry/blob/master/facsimile.md)
 * [leaving](https://github.com/casnroberts/poetry/blob/master/leaving.md)
+* [depth in perception](https://github.com/casnroberts/poetry/blob/master/depth-in-perception.md)
+* [back door](https://github.com/casnroberts/poetry/blob/master/back-door.md)
+* [the paint ball](https://github.com/casnroberts/poetry/blob/master/paint-ball.md)
+* [cycles](https://github.com/casnroberts/poetry/blob/master/cycles.md)
