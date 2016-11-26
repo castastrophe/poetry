@@ -69,23 +69,16 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 a. **Attribution.**
 
   1. If You Share the Licensed Material, You must:
-  
     A. retain the following if it is supplied by the Licensor with the Licensed Material:
-    
-      i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-      ii. a copyright notice;
-      iii. a notice that refers to this Public License;
-      iv. a notice that refers to the disclaimer of warranties;
-      v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-      
+        i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+        ii. a copyright notice;
+        iii. a notice that refers to this Public License;
+        iv. a notice that refers to the disclaimer of warranties;
+        v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
     B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-    
     C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-    
   For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
-  
   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-  
   3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
 #### Section 4 – Sui Generis Database Rights.
