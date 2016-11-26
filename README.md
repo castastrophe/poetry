@@ -9,6 +9,7 @@
 * [this goes out to all your fast food workers](https://github.com/casnroberts/poetry/blob/master/minimum-wage.md)
 * [torrential rain](https://github.com/casnroberts/poetry/blob/master/torrential-rain.md)
 * [i. am. tired.](https://github.com/casnroberts/poetry/blob/master/i-am-tired.md)
+* [linear love](https://github.com/casnroberts/poetry/blob/master/linear-love.md)
 * [vanity](https://github.com/casnroberts/poetry/blob/master/vanity.md)
 * [dear john](https://github.com/casnroberts/poetry/blob/master/dear-john.md)
 * [the last dance](https://github.com/casnroberts/poetry/blob/master/last-dance.md)
