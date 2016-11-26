@@ -1,21 +1,21 @@
 # vanity
 
-she sits at her dresser<br/>
-eyes glued to the mirror<br/>
-staring as though wanting something more,<br/>
-but she never changes.
+sitting at the dresser<br/>
+eyes trapped in the mirror<br/>
+staring. wanting...more.<br/>
+but nothing changes.
 
-lost in her own reflections<br/>
-her eyes begin to blur<br/>
-and suddenly the images are clearer<br/>
-a million tiny pieces.
+lost in the reflection,<br/>
+vision blurs<br/>
+and at once, the image is clear:<br/>
+a million pieces.
 
-she sees the fragments<br/>
-remnants of umet expectations<br/>
-a graveyard for her long forgotten dreams<br/>
+every fragment<br/>
+the remnant of umet expectations,<br/>
+a graveyard for long forgotten dreams;<br/>
 a work of picasso.
 
-the image has surpassed distortion<br/>
-priorities skewed beyond recognition<br/>
-leaving behind the person she once valued above all<br/>
-only pieces of herself
+the image surpasses distortion<br/>
+as priorities skew beyond recognition,<br/>
+leaving behind the person once valued above all<br/>
+only pieces of the self.
