@@ -13,13 +13,3 @@ red that blooms and spots the ground of green.<br/>
 yellow lingers on<br/>
 and shines upon the fields of light below,<br/>
 and the world of color splashes into cold stones of gray.
-
-the human world is black.<br/>
-the world around that glows so bright<br/>
-can only disappear in human hands.<br/>
-we paint a world of color<br/>
-but erase it without thought.<br/>
-goodbye blue crystal colors.<br/>
-goodbye sweet hills of green.<br/>
-goodbye bright shining yellow.<br/>
-farewell sweet dream.
