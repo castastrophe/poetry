@@ -1,13 +1,13 @@
 # torrential rain
 
 yellow light breaks over everything,<br/>
-its warmth singeing the skin.<br/>
+it's warmth singeing the skin.<br/>
 people racing to escape,<br/>
 taking shelter in the shadows,<br/>
 huddled together like cattle.<br/>
 i sit alone in the light<br/>
 and cannot feel the heat at all<br/>
-because its raining torrents in my heart<br/>
+because it's raining torrents in my heart<br/>
 you can see it just behind the eyes.<br/>
 like a shield it protects me from the sun<br/>
 whose wicked beams seek out my flesh.<br/>
