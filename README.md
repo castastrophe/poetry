@@ -1,5 +1,6 @@
 # *People can be more than one thing.*
 
+* [illuminating](https://github.com/casnroberts/poetry/blob/master/illuminating.md)
 * [sticky sweet sexy summer](https://github.com/casnroberts/poetry/blob/master/sticky-sweet-sexy-summer.md)
 * [sunbeam sanctuary](https://github.com/casnroberts/poetry/blob/master/sunbeam-sanctuary.md)
 * [milky musings](https://github.com/casnroberts/poetry/blob/master/milky-musings.md)
