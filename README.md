@@ -3,6 +3,7 @@
 * [sticky sweet sexy summer](https://github.com/casnroberts/poetry/blob/master/sticky-sweet-sexy-summer.md)
 * [sunbeam sanctuary](https://github.com/casnroberts/poetry/blob/master/sunbeam-sanctuary.md)
 * [milky musings](https://github.com/casnroberts/poetry/blob/master/milky-musings.md)
+* [i seem to remember](https://github.com/casnroberts/poetry/blob/master/i-seem-to-remember.md)
 * [this goes out to all your fast food workers](https://github.com/casnroberts/poetry/blob/master/minimum-wage.md)
 * [torrential rain](https://github.com/casnroberts/poetry/blob/master/torrential-rain.md)
 * [vanity](https://github.com/casnroberts/poetry/blob/master/vanity.md)
