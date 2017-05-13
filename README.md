@@ -27,3 +27,4 @@
 * [sunset](https://github.com/castastrophe/poetry/blob/master/sunset.md)
 * [the funeral](https://github.com/castastrophe/poetry/blob/master/the-funeral.md)
 * [just drive](https://github.com/castastrophe/poetry/blob/master/just-drive.md)
+* [a day in the life](https://github.com/castastrophe/poetry/blob/master/a-day-in-the-life.md)
