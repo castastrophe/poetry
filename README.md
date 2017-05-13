@@ -23,3 +23,6 @@
 * [back door](https://github.com/casnroberts/poetry/blob/master/back-door.md)
 * [the paint ball](https://github.com/casnroberts/poetry/blob/master/paint-ball.md)
 * [cycles](https://github.com/casnroberts/poetry/blob/master/cycles.md)
+* [i am aquarius](https://github.com/castastrophe/poetry/blob/master/i-am-aquarius.md)
+* [sunset](https://github.com/castastrophe/poetry/blob/master/sunset.md)
+* [the funeral](https://github.com/castastrophe/poetry/blob/master/the-funeral.md)
