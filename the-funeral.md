@@ -1,52 +1,52 @@
-###the funeral
+###the funeral<br/>
 
-hot wind
-breathing heavy on my face
-as it runs through my hair;
-desperate to escape.
+hot wind<br/>
+breathing heavy on my face<br/>
+as it runs through my hair;<br/>
+desperate to escape.<br/>
 
-red sun
-burning with forgotten feelings,
-melting down toward the trees,
-its color bleeding through the sky.
+red sun<br/>
+burning with forgotten feelings,<br/>
+melting down toward the trees,<br/>
+its color bleeding through the sky.<br/>
 
-i am sitting on a hilltop
-beside a lake
+i am sitting on a hilltop<br/>
+beside a lake<br/>
 wearing the same dress i wore on our anniversary.
 
-white lace and cotton
-and just above my knee you can see it-
-the stain where i spilled my drink
-as you asked me to marry you.
+white lace and cotton<br/>
+and just above my knee you can see it-<br/>
+the stain where i spilled my drink<br/>
+as you asked me to marry you.<br/>
 
-my fingers reach to touch it
-but never make it,
-hovering over the dress
-as if held by invisible strings.
+my fingers reach to touch it<br/>
+but never make it,<br/>
+hovering over the dress<br/>
+as if held by invisible strings.<br/>
 
-i close my chocolate eyes
-and taste the words we never said
-as they dance slowly past my lips.
+i close my chocolate eyes<br/>
+and taste the words we never said<br/>
+as they dance slowly past my lips.<br/>
 
-my mouth begins to water,
-so i bite, savoring their flavor-
-bittersweet, like dreams forgotten.
+my mouth begins to water,<br/>
+so i bite, savoring their flavor-<br/>
+bittersweet, like dreams forgotten.<br/>
 
-i touch my hand
-and as the wind whispers its desperate pleas
-i slip the ring off my ringer
-and raise my arm in salute to the hot, red sun.
+i touch my hand<br/>
+and as the wind whispers its desperate pleas<br/>
+i slip the ring off my ringer<br/>
+and raise my arm in salute to the hot, red sun.<br/>
 
-a scream escapes
-and i watch, helpless,
-as the ring is flung into the silvery waters
-swallowed immediately by reflections of the sun.
+a scream escapes<br/>
+and i watch, helpless,<br/>
+as the ring is flung into the silvery waters<br/>
+swallowed immediately by reflections of the sun.<br/>
 
-finally,
-the weight of a thousand summers is gone
-and i can breathe smooth, sultry breaths again.
+finally,<br/>
+the weight of a thousand summers is gone<br/>
+and i can breathe smooth, sultry breaths again.<br/>
 
-i stand, turning my back on the lake,
-leaving you to sleep at the bottom,
-a memory of what i cannot have,
-and i never come back.
+i stand, turning my back on the lake,<br/>
+leaving you to sleep at the bottom,<br/>
+a memory of what i cannot have,<br/>
+and i never come back.<br/>
