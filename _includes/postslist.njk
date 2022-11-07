@@ -1,0 +1,15 @@
+<div reversed class="postlist">
+{% for post in postslist | reverse %}
+  <sl-card class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
+    <h3 class="postlist-title"><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title | safe }}{% else %}untitled{% endif %}</a><sl-icon name="link-45deg"></sl-icon></h3>
+    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    <div class="postlist-preview">
+      {{ post.templateContent | truncate(200) | safe }}<a href="{{ post.url | url }}">more</a>
+    </div>
+    {% for tag in post.data.tags | filterTagList %}
+      {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+      <sl-badge slot="footer" variant="primary" pill size="small" href="{{ tagUrl | url }}" class="post-tag">#{{ tag }}</sl-badge>
+    {% endfor %}
+  </sl-card>
+{% endfor %}
+</div>

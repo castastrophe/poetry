@@ -1,0 +1,28 @@
+{
+  "name": "poetry",
+  "version": "1.0.0",
+  "description": "A library of personally written poetry and short stories; copyrighted content (requires attribution).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/castastrophe/poetry.git"
+  },
+  "author": "Cassondra Roberts <castastrophe@users.noreply.github.com>",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "serve": "npx @11ty/eleventy --serve",
+    "start": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "luxon": "^3.1.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.5"
+  }
+}

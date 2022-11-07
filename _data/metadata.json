@@ -1,0 +1,21 @@
+{
+    "title": "Creative musings",
+    "url": "https://example.com/",
+    "language": "en",
+    "description": "We are all more than just one thing. I write code, play with words, and feel all my feelings.",
+    "feed": {
+      "subtitle": "Poetry et al.",
+      "filename": "feed.xml",
+      "path": "/feed/feed.xml",
+      "id": "https://example.com/"
+    },
+    "jsonfeed": {
+      "path": "/feed/feed.json",
+      "url": "https://example.com/feed/feed.json"
+    },
+    "author": {
+      "name": "Cassondra Roberts",
+      "email": "castastrophe@users.noreply.github.com",
+      "url": "https://allons-y.llc"
+    }
+  }

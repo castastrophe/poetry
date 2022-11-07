@@ -1,0 +1,14 @@
+<header>
+    <div class="brand">
+    <a  href="{{ '/' | url }}"><sl-avatar style="--size: 2rem;" image="/images/profile.png" label="Avatar of the author"></sl-avatar></a>
+    <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+    </div>
+
+    {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+    <ul class="nav">
+        {%- for entry in collections.all | eleventyNavigation %}
+            <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+        {%- endfor %}
+        <li class="nav-item"><a href="https://github.com/castastrophe/poetry"><sl-icon name="github"></sl-icon></a></li>
+    </ul>
+</header>
